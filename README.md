@@ -2,24 +2,30 @@
 <a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://komarev.com/ghpvc/?username=InfinityHack3r&style=flat-square&color=7a0de0"></a>
 <a href="https://www.youtube.com/InfinityHacker"><img alt="" src="https://img.shields.io/youtube/channel/subscribers/UCk8dxhgqeuOm6pUf3ZYGP7w"></a>
 <a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://img.shields.io/badge/OS-Win10/11|RedHat 8/9|Ubuntu 22.04 -7a0de0"></a>
+<a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://img.shields.io/badge/Code-Bash/CSharp/Bash-7a0de0"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff)
 
 ![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff)
 
+![InfinityHack3r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InfinityHack3r)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
+🔭 I’m currently working on 
+- Ansible playbooks
+- Discord bots
+- Docker containerisation
+- Unity Avatars
+- Blender 3D models
 
-<!--
-**InfinityHack3r/InfinityHack3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning
+- Ansible
+- Docker
 
-Here are some ideas to get you started:
+💬 Ask me about 
+- Anything
+- Unity
+- Blender
+- Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for a job in the Aus
