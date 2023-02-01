@@ -7,8 +7,8 @@
 </h3>
 <table align="center">
   <tr>
-    <td><a href="https://github.com/InfinityHack3r/"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" /></a></td>
-    <td><a href="https://github.com/InfinityHack3r/"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" /></a></td>
+    <td><a href="https://github.com/InfinityHack3r/"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff"></a></td>
+    <td><a href="https://github.com/InfinityHack3r/"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff"></a></td>
   </tr>
 </table>
 <h3 align="center">Languages and Tools:</h3>
@@ -45,3 +45,4 @@
 </ul></td>
 </tr>
 </table>
+
