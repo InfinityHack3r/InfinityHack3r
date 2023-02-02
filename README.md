@@ -1,50 +1,166 @@
-### Hi there 👋
-<h3 align="center">
-<a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://komarev.com/ghpvc/?username=InfinityHack3r&style=flat-square&color=7a0de0"></a>
-<a href="https://www.youtube.com/InfinityHacker"><img alt="" src="https://img.shields.io/youtube/channel/subscribers/UCk8dxhgqeuOm6pUf3ZYGP7w"></a>
-<a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://img.shields.io/badge/OS-Win10/11|RedHat 8/9|Ubuntu 22.04 -7a0de0"></a>
-<a href="https://github.com/InfinityHack3r/InfinityHack3r"><img alt="" src="https://img.shields.io/badge/Code-CSharp/C++/Bash-7a0de0"></a>
-</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<a align="center" href="https://github.com/InfinityHack3r/">
-  <img  src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff">
+# <div align="center">I'm InfinityHack3r a casual linux systems administrator, DevOps admin and techie</div>  
+----
+  
+
+- 🔭 I’m currently working on [Ansible Playbooks]https://github.com/InfinityHack3r/Ansible)  
+  
+
+- 🌱 I’m currently learning Vagrant, Docker containerisation and Kubernetes  
+  
+
+- ❓ Ask me about anything related to Redhat Linux, Unity, Blender, Ansible or Circuit board design  
+  
+
+- 💼 Currently an Specialist electrician  
+  
+
+- 💼 Seeking a new job in the IT field as a Linux administrator  
+  
+
+- 🏫 Enrolled in a bachelor of information technology  
+  
+
+<br/>  
+
+
+## My Skill Set  
+----
+<table><tr><td valign="top" width="33%">
+
+
+
+## Learning  
+----
+<div align="center">  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+## Skills  
+----
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+## Certifications  
+----
+- Ansible for Network Automation (DO457)  
+  
+
+- Red Hat System Administration II (RH134)  
+  
+
+- Red Hat System Administration I (RH124)  
+  
+
+- Certificate III in Electrotechnology Electrician (UEE30811)  
+  
+
+- Registered Structured Cabling, Coaxial Cabling and Fiber installation (U33N33F104A )  
+  
+
+- Certificate III in Information, Digital Media and Technology (ICT30115)  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+----
+<div align="center">
+<a href="https://github.com/InfinityHack3r" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a align="center" href="https://github.com/InfinityHack3r/">
-  <img  src="https://github-readme-stats.vercel.app//api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff">
+<a href="https://twitter.com/InfinityHack3r" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.youtube.com/user/InfinityHacker" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" alt="Ansible" width="40" height="40"/> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://img.shields.io/badge/Code-CSharp/C++/Bash-7a0de0" align="center" />
+<img src="https://komarev.com/ghpvc/?username=InfinityHack3r&style=flat-square&color=7a0de0" align="center" />
+<img src="https://img.shields.io/badge/OS-Win10/11|RedHat 8/9|Ubuntu 22.04 -7a0de0" align="center" />
+<a href="https://www.youtube.com/InfinityHacker"><img alt="" src="https://img.shields.io/youtube/channel/subscribers/UCk8dxhgqeuOm6pUf3ZYGP7w"  align="center" />
+</div>  
+  
 
-<table align="center" style="width:90%">
-<tr>
-    <td align="center"><h2>🔭 Side Projects</h2> <ul>
-    <li>Stable diffusion Ai art generation</li>
-    <li>Docker containerisation</li>
-    <li>Discord bots</li>
-    <li>Circit board design based on ESP32</li>
-    <li>3D printing</li>
-    <li>Youtube video tutorials</li>
-</ul></td>
-    <td align="center"><h2>🔭 I’m currently working on</h2> <ul>
-    <li>Ansible playbooks</li>
-    <li>Docker containerisation</li>
-    <li>Unity Avatars</li>
-    <li>Blender 3D models</li>
-    <li>Deploying Services in local Lab</li>
-</ul></td>
-    <td align="center"><h2>💬 Ask me about</h2> <ul>
-    <li>Anything</li>
-    <li>Unity</li>
-    <li>Avatars</li>
-    <li>Blender</li>
-    <li>Ansible</li>
-</ul></td>
-    <td align="center"><h2>📫 How to reach me:</h2> <ul>
-    <li>twitter: @InfinityHack3r</li>
-    <li>telegram: @InfinityHack3r</li>
-    <li>website: https://vastness.one/</li>
-</ul></td>
-</tr>
-</table>
+<br/>  
+
+
+## Github Stats  
+----
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+
+<!-- BLOG-POST-LIST:END -->  
+----
+<br/>  
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=gftzdyjfhqomp3xkcagkz4qan&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=8000ff&bar_color_cover=true" align="center" style="width: 100%" />  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/infinityhack3r" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+            <a href="https://ko-fi.com/infinityhack3r" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
