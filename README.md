@@ -9,20 +9,17 @@
 
 - 🔭 I’m currently working on [Ansible Playbooks]https://github.com/InfinityHack3r/Ansible)  
   
-
 - 🌱 I’m currently learning Vagrant, Docker containerisation and Kubernetes  
   
-
 - ❓ Ask me about anything related to Redhat Linux, Unity, Blender, Ansible or Circuit board design  
   
-
 - 💼 Currently an Specialist electrician  
   
-
 - 💼 Seeking a new job in the IT field as a Linux administrator  
   
-
 - 🏫 Enrolled in a bachelor of information technology  
+
+- 📫 Site https://vastness.one
   
 
 <br/>  
@@ -120,19 +117,19 @@
 <img src="https://img.shields.io/badge/OS-Win10/11|RedHat 8/9|Ubuntu 22.04 -7a0de0" align="center" />
 <a href="https://www.youtube.com/InfinityHacker"><img alt="" src="https://img.shields.io/youtube/channel/subscribers/UCk8dxhgqeuOm6pUf3ZYGP7w"  align="center" />
 </div>  
-  
+</a>
 
 <br/>  
 
 
 ## Github Stats  
 ----
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
+<div align="center"><a href="https://github.com/infinityhack3r"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
 
 <br/>  
-
+</a>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -141,7 +138,7 @@
 ----
 <br>  
 <div align="center" >
-<img " src="https://spotify-github-profile.vercel.app/api/view?uid=gftzdyjfhqomp3xkcagkz4qan&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=8000ff&bar_color_cover=true"  style="width: 50%" />  
+<a href="https://open.spotify.com/user/gftzdyjfhqomp3xkcagkz4qan"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gftzdyjfhqomp3xkcagkz4qan&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=8000ff&bar_color_cover=true"  style="width: 50%" />  
 <div?>
 <br/>  
 
