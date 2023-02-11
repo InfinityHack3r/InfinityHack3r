@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Action
+# This is a basic workflow to help you get started with Actions
 
 name: Waka Readme
 
@@ -7,7 +7,7 @@ name: Waka Readme
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
@@ -18,7 +18,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: InfinityHack3r/InfinityHack3r@main
+      - uses: InfinityHack3r/InfinityHack3r@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        
