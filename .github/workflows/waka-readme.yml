@@ -15,7 +15,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: InfinityHack3r/waka-readme@main
+      - uses: InfinityHack3r/InfinityHack3r@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
