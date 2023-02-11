@@ -131,10 +131,6 @@
 <br/>  
 </a>
 
-## WakaTime Stats
-----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
