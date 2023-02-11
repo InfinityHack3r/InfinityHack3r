@@ -128,10 +128,13 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityHack3r&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <br/>  
 </a>
+
+## WakaTime Stats
+----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
