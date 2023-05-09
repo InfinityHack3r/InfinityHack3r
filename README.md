@@ -7,16 +7,16 @@
 ----
   
 
-- 🔭 I’m currently working on [Ansible Playbooks]https://github.com/InfinityHack3r/Ansible)  
+- 🔭 I’m currently working on [Finv.py](https://github.com/InfinityHack3r/finv.py)  
   
-- 🌱 I’m currently learning Vagrant, Docker containerisation and Kubernetes  
+- 🌱 I’m currently learning Python, Docker containerisation and Kubernetes  
   
 - ❓ Ask me about anything related to Redhat Linux, Unity, Blender, Ansible or Circuit board design  
   
-- 💼 Currently an Specialist electrician  
-  
-- 💼 Seeking a new job in the IT field as a Linux administrator  
-  
+- 💼 Currently transition to a Technical support officer position 
+
+- 💼 Formaly a Specialist electrician  
+
 - 🏫 Enrolled in a bachelor of information technology  
 
 - 📫 Site https://vastness.one
