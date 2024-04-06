@@ -67,57 +67,6 @@
 
 
 
-## Certifications  
-----
-- Ansible for Network Automation (DO457)  
-  
-
-- Red Hat System Administration II (RH134)  
-  
-
-- Red Hat System Administration I (RH124)  
-  
-
-- Certificate III in Electrotechnology Electrician (UEE30811)  
-  
-
-- Registered Structured Cabling, Coaxial Cabling and Fiber installation (U33N33F104A )  
-  
-
-- Certificate III in Information, Digital Media and Technology (ICT30115)  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-----
-<div align="center">
-<a href="https://github.com/InfinityHack3r" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/InfinityHack3r" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/InfinityHacker" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<div align="center">
-<img src="https://img.shields.io/badge/Code-CSharp/C++/Bash-7a0de0" align="center" />
-<img src="https://komarev.com/ghpvc/?username=InfinityHack3r&style=flat-square&color=7a0de0" align="center" />
-<img src="https://img.shields.io/badge/OS-Win10/11|RedHat 8/9|Ubuntu 22.04 -7a0de0" align="center" />
-<a href="https://www.youtube.com/InfinityHacker"><img alt="" src="https://img.shields.io/youtube/channel/subscribers/UCk8dxhgqeuOm6pUf3ZYGP7w"  align="center" />
-</div>  
-</a>
-
-<br/>  
-
-
 ## Github Stats  
 ----
 <div align="center"><a href="https://github.com/infinityhack3r"><img src="https://github-readme-stats.vercel.app/api?username=InfinityHack3r&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff" align="center" /></div>  
@@ -127,21 +76,6 @@
 <br/>  
 </a>
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-----
-<br>  
-<div align="center" >
-<a href="https://open.spotify.com/user/gftzdyjfhqomp3xkcagkz4qan"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gftzdyjfhqomp3xkcagkz4qan&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=8000ff&bar_color_cover=true"  style="width: 50%" />  
-<div?>
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/infinityhack3r" target="_blank" style="display: inline-block;">
